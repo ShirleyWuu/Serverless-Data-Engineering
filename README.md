@@ -29,3 +29,7 @@ To use the web application, follow these steps: <br>
 - Use CloudWatch to view the logs and debug any issues that arise.
 
 ### DEMO VIDEO
+
+https://user-images.githubusercontent.com/123136573/230690486-8062c07f-79a5-47d9-9d93-ded82f1cc05c.mp4
+
+
